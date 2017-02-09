@@ -1,4 +1,4 @@
-# Capgemini UK Public Sector Software Engineering Grade Ladder
+# Capgemini UK Public Sector Digital Software Engineering Grade Ladder
 
 This grade ladder was inspired by a blog post from [Camille Fournier](https://twitter.com/skamille)'s [renttherunway.com](http://dresscode.renttherunway.com/blog/ladder) in which they shared their ladder (and they took inspiration from the original [Foursquare engineering](http://engineering.foursquare.com/) ladder made by [Harry Heymann](https://twitter.com/harryh), [Jason Liszka](https://twitter.com/jliszka) and [Andrew Hogue](https://twitter.com/ahogue)).
 
@@ -18,7 +18,7 @@ When documenting the grades our objectives were to:
 
 We have found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
 
-We've published it on our [GitHub](https://github.com/capgemini-psdu/grade-ladder) and as a [GitBook](https://capgemini-psdu.gitbooks.io/capgemini-uk-public-sector-software-engineering/content/), where it's available to read online as a [PDF](https://www.gitbook.com/download/pdf/book/capgemini/grade-ladder), [Mobi](https://www.gitbook.com/download/mobi/book/capgemini-psdu/grade-ladder) or [EPub](https://www.gitbook.com/download/epub/book/capgemini-psdu/grade-ladder). 
+We've published it on our [GitHub](https://github.com/capgemini-psdu/grade-ladder) and as a [GitBook](https://capgemini-psdu.gitbooks.io/capgemini-uk-public-sector-digital-software-engineering/content/), where it's available to read online as a [PDF](https://www.gitbook.com/download/pdf/book/capgemini-psdu/grade-ladder), [Mobi](https://www.gitbook.com/download/mobi/book/capgemini-psdu/grade-ladder) or [EPub](https://www.gitbook.com/download/epub/book/capgemini-psdu/grade-ladder). 
 
 If what you read here sounds like the kind of place you'd like to work, then you can check out our latest opportunities on [our Careers site](https://www.uk.capgemini.com/careers).
 
