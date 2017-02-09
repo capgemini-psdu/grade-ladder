@@ -8,7 +8,7 @@
 "You rightly depend on others for instruction & direction.",1|2,T,
 "You are capable of taking well-defined tasks / sub tasks and completing them.",1|2,T,
 "You are able to break down these tasks into smaller chunks in order to tackle them effectively.",1|2,T,
-"You prioritise and organise own work to deliver to agreed deadlines, and make steady progress on your work; needing only periodic feedback and input from seniors.",1|2,T,
+"You prioritise and organise your own work to deliver to agreed deadlines, and make steady progress on your work; needing only periodic feedback and input from seniors.",1|2,T,
 "You use existing procedures to solve routine problems and escalate problems when appropriate.",1|2,T,
 "You work co-operatively with others to achieve your team's goals.",1|2,T,
 "You provide explanations clearly and precisely.",1|2,T,
@@ -113,7 +113,7 @@
 "You evaluate and select new technologies and tools for the benefit of your project. The changes which you initiate are in the scope of delivery improvements but not necessarily visible to your client. You are aware of and able to gain the necessary organisational support and drive the change to completion.",6,WIS,Technical Assessment and Adoption
 "You impact assess, decide on, and deploy these new technologies and tools for the benefit of both your team and the project.",7,WIS,Technical Assessment and Adoption
 "These changes that you initiate are visible to the client, and the client sees their benefit.",7,WIS,Technical Assessment and Adoption
-"You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met",6|7,WIS,Business Awareness
+"You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met.",6|7,WIS,Business Awareness
 "You communicate key information to the correct stakeholders effectively and in a timely fashion.",6|7,WIS,Business Awareness
 "You have multiple reviewees, giving them career guidance and advice as well as performing end of year review tasks.",6|7,WIS,Helping Your Colleagues
 "You contribute to internally-open-sourced shared libraries, frameworks and resources.",6|7,WIS,Helping Your Colleagues
