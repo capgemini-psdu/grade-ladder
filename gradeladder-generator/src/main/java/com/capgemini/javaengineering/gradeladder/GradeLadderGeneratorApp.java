@@ -100,14 +100,14 @@ public class GradeLadderGeneratorApp
     }
 
     static String createFileName(String folderName, Grade grade) {
-        String formatString = "/flat/SE_Ladder-A%02d-%s.md";
-        return folderName  + String.format(formatString, grade.getGrade(), grade.getTitle());
+        String formatString = "/flat/SE_Ladder-A%d-O%d-%s.md";
+        return folderName  + String.format(formatString, grade.getGrade(), grade.getGrade(), grade.getTitle());
     }
 
 
     static String createBookDir(String folderName, Grade grade) {
-        String formatString = "/book/A Grades/A%02d-%s";
-        return folderName + String.format(formatString, grade.getGrade(), grade.getTitle());
+        String formatString = "/book/A and O Grades/A%d-O%d-%s";
+        return folderName + String.format(formatString, grade.getGrade(), grade.getGrade(), grade.getTitle());
     }
 
 }

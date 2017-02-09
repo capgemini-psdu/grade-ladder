@@ -32,7 +32,7 @@ Simply build using maven:
 %> mvn clean install
 
 ##Run
-%> mvn exec:java -Dexec.args="../input/expectations.csv ../"
+%> mvn exec:java -Dexec.args="../input/expectations.csv ../src/"
 
 #Authors
 * [Rob Horn](https://github.com/robhorn-capgemini)

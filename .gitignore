@@ -4,4 +4,9 @@ gradeladder-generator/.gradle/
 gradeladder-generator/build/
 node_modules/
 output/
+.classpath
+.project
+.settings/
+buildSrc/build/
+gradeladder-generator/target/
 

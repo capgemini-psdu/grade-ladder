@@ -9,7 +9,7 @@ public class GradeLadderGeneratorAppTest {
     @Test
     public void createFileNameShouldFormatG1AsExpected() throws Exception {
 
-        String expectedFileName = "test/flat/SE_Ladder-A01-ApprenticeSoftwareEngineer.md";
+        String expectedFileName = "test/flat/SE_Ladder-A1-O1-ApprenticeSoftwareEngineer.md";
         Grade g = Grade.ONE;
         assertEquals(expectedFileName, GradeLadderGeneratorApp.createFileName("test", g));
 
@@ -18,7 +18,7 @@ public class GradeLadderGeneratorAppTest {
     @Test
     public void createFileNameShouldFormatG8AsExpected() throws Exception {
 
-        String expectedFileName = "test/flat/SE_Ladder-A08-LeadSoftwareEngineer.md";
+        String expectedFileName = "test/flat/SE_Ladder-A8-O8-LeadSoftwareEngineer.md";
         Grade g = Grade.EIGHT;
         assertEquals(expectedFileName, GradeLadderGeneratorApp.createFileName("test", g));
 

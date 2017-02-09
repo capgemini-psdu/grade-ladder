@@ -26,9 +26,13 @@ abstract class ExpectationRenderer {
 
     void addGradeSubHeadingToOutput(int grade) {
         if (grade < 3 ) {
-            output.add("### _Apprentice Software Engineer - Grade " + grade + "_");
+            output.add("### _Apprentice Software Engineer - Grade A" + grade + " and O" + grade + "_");
+        } else if (grade < 6 ) {
+            output.add("### _Software Engineer - Grade A" + grade + " and O" + grade + "_");
+        } else if (grade < 8 ) {
+            output.add("### _Senior Software Engineer - Grade A" + grade + " and O" + grade + "_");
         } else {
-            output.add("### _Software Engineer - Grade " + grade + "_");
+            output.add("### _Lead Software Engineer - Grade A" + grade + " and O" + grade + "_");
         }
     }
 
