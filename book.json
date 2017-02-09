@@ -5,11 +5,6 @@
     "pdf": "styles/pdf.css"
   },
   "plugins": [],
-  "links": {
-    "sidebar": {
-      "Blog": "https://capgemini.github.io"
-    }
-  },
   "pdf": {
     "pageNumbers": true,
     "fontSize": 12,
